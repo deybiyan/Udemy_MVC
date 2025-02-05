@@ -17,6 +17,7 @@ namespace Udemy_MVC.Controllers
             _logger = logger;
         }
 
+        public string testCommit { get; set; }
         public IActionResult Index()
 
 
