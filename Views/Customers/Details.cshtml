@@ -1,0 +1,21 @@
+﻿@model Udemy_MVC.Models.Customer            
+
+
+@{
+    ViewBag.Title = "Customers";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>
+    @Model.Name
+</h1>
+
+<ul>
+    <li>Membership Type: @Model.MembershipType.Name</li>
+
+    @if (Model.Birthdate != null)
+    {
+        <li>Birthdate: @Model.Birthdate</li>
+    }
+
+</ul>

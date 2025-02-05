@@ -1,0 +1,412 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dave\\source\\repos\\Udemy_MVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A656028-715A-441E-8E52-72D6188FC580}|Udemy_MVC.csproj|c:\\users\\dave\\source\\repos\\udemy_mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A656028-715A-441E-8E52-72D6188FC580}|Udemy_MVC.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A656028-715A-441E-8E52-72D6188FC580}|Udemy_MVC.csproj|c:\\users\\dave\\source\\repos\\udemy_mvc\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A656028-715A-441E-8E52-72D6188FC580}|Udemy_MVC.csproj|solutionrelative:models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A656028-715A-441E-8E52-72D6188FC580}|Udemy_MVC.csproj|c:\\users\\dave\\source\\repos\\udemy_mvc\\views\\movies\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A656028-715A-441E-8E52-72D6188FC580}|Udemy_MVC.csproj|solutionrelative:views\\movies\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A656028-715A-441E-8E52-72D6188FC580}|Udemy_MVC.csproj|c:\\users\\dave\\source\\repos\\udemy_mvc\\views\\customers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A656028-715A-441E-8E52-72D6188FC580}|Udemy_MVC.csproj|solutionrelative:views\\customers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A656028-715A-441E-8E52-72D6188FC580}|Udemy_MVC.csproj|c:\\users\\dave\\source\\repos\\udemy_mvc\\viewmodels\\randommovieviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A656028-715A-441E-8E52-72D6188FC580}|Udemy_MVC.csproj|solutionrelative:viewmodels\\randommovieviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A656028-715A-441E-8E52-72D6188FC580}|Udemy_MVC.csproj|c:\\users\\dave\\source\\repos\\udemy_mvc\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A656028-715A-441E-8E52-72D6188FC580}|Udemy_MVC.csproj|solutionrelative:views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A656028-715A-441E-8E52-72D6188FC580}|Udemy_MVC.csproj|c:\\users\\dave\\source\\repos\\udemy_mvc\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A656028-715A-441E-8E52-72D6188FC580}|Udemy_MVC.csproj|solutionrelative:controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A656028-715A-441E-8E52-72D6188FC580}|Udemy_MVC.csproj|c:\\users\\dave\\source\\repos\\udemy_mvc\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A656028-715A-441E-8E52-72D6188FC580}|Udemy_MVC.csproj|solutionrelative:controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A656028-715A-441E-8E52-72D6188FC580}|Udemy_MVC.csproj|c:\\users\\dave\\source\\repos\\udemy_mvc\\views\\customers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A656028-715A-441E-8E52-72D6188FC580}|Udemy_MVC.csproj|solutionrelative:views\\customers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/LAPTOP_UNVUJ4JB_SQLEXPRESS/MVCTest/True/SqlTable/dbo.Movies.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A656028-715A-441E-8E52-72D6188FC580}|Udemy_MVC.csproj|c:\\users\\dave\\source\\repos\\udemy_mvc\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A656028-715A-441E-8E52-72D6188FC580}|Udemy_MVC.csproj|solutionrelative:models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A656028-715A-441E-8E52-72D6188FC580}|Udemy_MVC.csproj|c:\\users\\dave\\source\\repos\\udemy_mvc\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A656028-715A-441E-8E52-72D6188FC580}|Udemy_MVC.csproj|solutionrelative:models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A656028-715A-441E-8E52-72D6188FC580}|Udemy_MVC.csproj|c:\\users\\dave\\source\\repos\\udemy_mvc\\models\\membershiptype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A656028-715A-441E-8E52-72D6188FC580}|Udemy_MVC.csproj|solutionrelative:models\\membershiptype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A656028-715A-441E-8E52-72D6188FC580}|Udemy_MVC.csproj|c:\\users\\dave\\source\\repos\\udemy_mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A656028-715A-441E-8E52-72D6188FC580}|Udemy_MVC.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A656028-715A-441E-8E52-72D6188FC580}|Udemy_MVC.csproj|c:\\users\\dave\\source\\repos\\udemy_mvc\\wwwroot\\lib\\jquery\\dist\\jquery.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9A656028-715A-441E-8E52-72D6188FC580}|Udemy_MVC.csproj|solutionrelative:wwwroot\\lib\\jquery\\dist\\jquery.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A656028-715A-441E-8E52-72D6188FC580}|Udemy_MVC.csproj|c:\\users\\dave\\source\\repos\\udemy_mvc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9A656028-715A-441E-8E52-72D6188FC580}|Udemy_MVC.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A656028-715A-441E-8E52-72D6188FC580}|Udemy_MVC.csproj|c:\\users\\dave\\source\\repos\\udemy_mvc\\properties\\servicedependencies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9A656028-715A-441E-8E52-72D6188FC580}|Udemy_MVC.csproj|solutionrelative:properties\\servicedependencies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A656028-715A-441E-8E52-72D6188FC580}|Udemy_MVC.csproj|c:\\users\\dave\\source\\repos\\udemy_mvc\\udemy_mvc.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{9A656028-715A-441E-8E52-72D6188FC580}|Udemy_MVC.csproj|solutionrelative:udemy_mvc.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A656028-715A-441E-8E52-72D6188FC580}|Udemy_MVC.csproj|c:\\users\\dave\\source\\repos\\udemy_mvc\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9A656028-715A-441E-8E52-72D6188FC580}|Udemy_MVC.csproj|solutionrelative:wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A656028-715A-441E-8E52-72D6188FC580}|Udemy_MVC.csproj|c:\\users\\dave\\source\\repos\\udemy_mvc\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9A656028-715A-441E-8E52-72D6188FC580}|Udemy_MVC.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/LAPTOP_UNVUJ4JB_SQLEXPRESS/MVCTest/True/SqlTable/dbo.Customers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/LAPTOP_UNVUJ4JB_SQLEXPRESS/MVCTest/True/SqlTable/dbo.MembershipType.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A656028-715A-441E-8E52-72D6188FC580}|Udemy_MVC.csproj|c:\\users\\dave\\source\\repos\\udemy_mvc\\migrations\\20250202030420_addmoviegenre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A656028-715A-441E-8E52-72D6188FC580}|Udemy_MVC.csproj|solutionrelative:migrations\\20250202030420_addmoviegenre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A656028-715A-441E-8E52-72D6188FC580}|Udemy_MVC.csproj|c:\\users\\dave\\source\\repos\\udemy_mvc\\migrations\\20250202024756_dataformat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A656028-715A-441E-8E52-72D6188FC580}|Udemy_MVC.csproj|solutionrelative:migrations\\20250202024756_dataformat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A656028-715A-441E-8E52-72D6188FC580}|Udemy_MVC.csproj|c:\\users\\dave\\source\\repos\\udemy_mvc\\migrations\\20250201093910_addbirthdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A656028-715A-441E-8E52-72D6188FC580}|Udemy_MVC.csproj|solutionrelative:migrations\\20250201093910_addbirthdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 507,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\dave\\source\\repos\\Udemy_MVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\dave\\source\\repos\\Udemy_MVC\\Controllers\\HomeController.cs*",
+              "RelativeToolTip": "Controllers\\HomeController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T03:29:10.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\dave\\source\\repos\\Udemy_MVC\\Views\\Movies\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Movies\\Details.cshtml",
+              "ToolTip": "C:\\Users\\dave\\source\\repos\\Udemy_MVC\\Views\\Movies\\Details.cshtml",
+              "RelativeToolTip": "Views\\Movies\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-02T03:19:13.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RandomMovieViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\dave\\source\\repos\\Udemy_MVC\\ViewModels\\RandomMovieViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\RandomMovieViewModel.cs",
+              "ToolTip": "C:\\Users\\dave\\source\\repos\\Udemy_MVC\\ViewModels\\RandomMovieViewModel.cs",
+              "RelativeToolTip": "ViewModels\\RandomMovieViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T03:17:41.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "C:\\Users\\dave\\source\\repos\\Udemy_MVC\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CustomersController.cs",
+              "ToolTip": "C:\\Users\\dave\\source\\repos\\Udemy_MVC\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "Controllers\\CustomersController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T03:12:47.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "C:\\Users\\dave\\source\\repos\\Udemy_MVC\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MoviesController.cs",
+              "ToolTip": "C:\\Users\\dave\\source\\repos\\Udemy_MVC\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "Controllers\\MoviesController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAkwBUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T03:09:48.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dave\\source\\repos\\Udemy_MVC\\Views\\Movies\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Movies\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dave\\source\\repos\\Udemy_MVC\\Views\\Movies\\Index.cshtml",
+              "RelativeToolTip": "Views\\Movies\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-02T03:06:59.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\dave\\source\\repos\\Udemy_MVC\\Views\\Customers\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Customers\\Details.cshtml",
+              "ToolTip": "C:\\Users\\dave\\source\\repos\\Udemy_MVC\\Views\\Customers\\Details.cshtml",
+              "RelativeToolTip": "Views\\Customers\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-01T09:28:58.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\dave\\source\\repos\\Udemy_MVC\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\dave\\source\\repos\\Udemy_MVC\\Models\\Movie.cs",
+              "RelativeToolTip": "Models\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T03:00:08.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "dbo.Movies.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/LAPTOP_UNVUJ4JB_SQLEXPRESS/MVCTest/True/SqlTable/dbo.Movies.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/LAPTOP_UNVUJ4JB_SQLEXPRESS/MVCTest/True/SqlTable/dbo.Movies.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-02-02T03:05:02.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20250202030420_AddMovieGenre.cs",
+              "DocumentMoniker": "C:\\Users\\dave\\source\\repos\\Udemy_MVC\\Migrations\\20250202030420_AddMovieGenre.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250202030420_AddMovieGenre.cs",
+              "ToolTip": "C:\\Users\\dave\\source\\repos\\Udemy_MVC\\Migrations\\20250202030420_AddMovieGenre.cs",
+              "RelativeToolTip": "Migrations\\20250202030420_AddMovieGenre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T03:04:20.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dave\\source\\repos\\Udemy_MVC\\Views\\Customers\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Customers\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dave\\source\\repos\\Udemy_MVC\\Views\\Customers\\Index.cshtml",
+              "RelativeToolTip": "Views\\Customers\\Index.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAcwBEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-01T09:28:57.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\dave\\source\\repos\\Udemy_MVC\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\dave\\source\\repos\\Udemy_MVC\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T03:02:57.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\dave\\source\\repos\\Udemy_MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\dave\\source\\repos\\Udemy_MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-02T02:53:59.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "jquery.js",
+              "DocumentMoniker": "C:\\Users\\dave\\source\\repos\\Udemy_MVC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\jquery\\dist\\jquery.js",
+              "ToolTip": "C:\\Users\\dave\\source\\repos\\Udemy_MVC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+              "RelativeToolTip": "wwwroot\\lib\\jquery\\dist\\jquery.js",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-02T02:53:33.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "serviceDependencies.json",
+              "DocumentMoniker": "C:\\Users\\dave\\source\\repos\\Udemy_MVC\\Properties\\serviceDependencies.json",
+              "RelativeDocumentMoniker": "Properties\\serviceDependencies.json",
+              "ToolTip": "C:\\Users\\dave\\source\\repos\\Udemy_MVC\\Properties\\serviceDependencies.json",
+              "RelativeToolTip": "Properties\\serviceDependencies.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-02T02:53:16.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\dave\\source\\repos\\Udemy_MVC\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\dave\\source\\repos\\Udemy_MVC\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-02T02:53:02.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Udemy_MVC",
+              "DocumentMoniker": "C:\\Users\\dave\\source\\repos\\Udemy_MVC\\Udemy_MVC.csproj",
+              "RelativeDocumentMoniker": "Udemy_MVC.csproj",
+              "ToolTip": "C:\\Users\\dave\\source\\repos\\Udemy_MVC\\Udemy_MVC.csproj",
+              "RelativeToolTip": "Udemy_MVC.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-02T02:52:57.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\dave\\source\\repos\\Udemy_MVC\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\dave\\source\\repos\\Udemy_MVC\\Models\\Customer.cs",
+              "RelativeToolTip": "Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T09:32:56.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MembershipType.cs",
+              "DocumentMoniker": "C:\\Users\\dave\\source\\repos\\Udemy_MVC\\Models\\MembershipType.cs",
+              "RelativeDocumentMoniker": "Models\\MembershipType.cs",
+              "ToolTip": "C:\\Users\\dave\\source\\repos\\Udemy_MVC\\Models\\MembershipType.cs",
+              "RelativeToolTip": "Models\\MembershipType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T09:14:28.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\dave\\source\\repos\\Udemy_MVC\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\dave\\source\\repos\\Udemy_MVC\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-02T02:52:55.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\dave\\source\\repos\\Udemy_MVC\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\dave\\source\\repos\\Udemy_MVC\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-02T02:52:45.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20250202024756_DataFormat.cs",
+              "DocumentMoniker": "C:\\Users\\dave\\source\\repos\\Udemy_MVC\\Migrations\\20250202024756_DataFormat.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250202024756_DataFormat.cs",
+              "ToolTip": "C:\\Users\\dave\\source\\repos\\Udemy_MVC\\Migrations\\20250202024756_DataFormat.cs",
+              "RelativeToolTip": "Migrations\\20250202024756_DataFormat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T02:47:56.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "dbo.Customers.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/LAPTOP_UNVUJ4JB_SQLEXPRESS/MVCTest/True/SqlTable/dbo.Customers.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/LAPTOP_UNVUJ4JB_SQLEXPRESS/MVCTest/True/SqlTable/dbo.Customers.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-02-01T09:40:12.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20250201093910_AddBirthdate.cs",
+              "DocumentMoniker": "C:\\Users\\dave\\source\\repos\\Udemy_MVC\\Migrations\\20250201093910_AddBirthdate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250201093910_AddBirthdate.cs",
+              "ToolTip": "C:\\Users\\dave\\source\\repos\\Udemy_MVC\\Migrations\\20250201093910_AddBirthdate.cs",
+              "RelativeToolTip": "Migrations\\20250201093910_AddBirthdate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T09:39:10.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "dbo.MembershipType.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/LAPTOP_UNVUJ4JB_SQLEXPRESS/MVCTest/True/SqlTable/dbo.MembershipType.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/LAPTOP_UNVUJ4JB_SQLEXPRESS/MVCTest/True/SqlTable/dbo.MembershipType.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-02-01T09:28:30.75Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

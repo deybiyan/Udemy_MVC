@@ -1,0 +1,18 @@
+﻿@model Udemy_MVC.Models.Movie;
+
+@{
+    ViewBag.Title = "Customers";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>
+    @Model.Name
+</h1>
+
+<ul>
+    <li>Genre: @Model.Genre</li>
+    <li>Release Date: @Model.ReleaseDate</li>
+    <li>Date Added: @Model.DateAdded</li>
+    <li>Number of Stocks: @Model.Stock</li>
+
+</ul>
